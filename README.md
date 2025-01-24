@@ -17,3 +17,5 @@ A simple To-Do application built with React. This app allows users to add, edit,
 To run this project locally, follow these steps:
 
 install npm i
+then 
+npm start
